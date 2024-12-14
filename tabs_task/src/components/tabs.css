@@ -1,0 +1,25 @@
+body{
+    background-color:light-pink;
+    color-black;
+}
+.tabs{
+    width:30px;
+    margin:0, auto;
+}
+
+.tab-list{
+    padding:0px;
+    display:flex;
+    border-bottom:1px solid;
+
+}
+
+.tab-item{
+    padding:10px, 20px;
+    cursor:pointer;
+}
+
+.tab-content{
+    padding:20px;
+    border:1px solid;
+}
